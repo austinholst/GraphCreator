@@ -5,7 +5,7 @@
 
 /* Author: Austin Holst
  * Date: 5 - 30 - 18
- * Code: Add and delete vertices and edges and creates and prints an adjacency matrix 
+ * Code: Add and delete vertices and edges and creates and prints a adjacency matrix 
  */
 
 
